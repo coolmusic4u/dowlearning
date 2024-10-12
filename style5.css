@@ -1,0 +1,76 @@
+#bean-ratio, #bean-amount {
+  display: inline-block;
+  width: 48%;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+
+
+.nav {
+  justify-content: center;
+}
+
+.nav-item {
+  flex: 0 0 25%;
+  text-align: center;
+}
+
+.nav-link {
+  font-size: 1.00rem; /* Adjust this value according to your preference */
+}
+
+#copyright {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #2d2d2d; /* Dark grey background color */
+  z-index: 1000;
+  padding: 5px;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  color: #ffffff; /* White text color */
+}
+
+
+@media (max-width: 767px) {
+  h1 {
+    margin-top: 80px; /* Adjust this value according to your preference for mobile view */
+  }
+
+  .nav-link {
+    font-size: 0.7rem; /* Adjust this value according to your preference */
+  }
+}
+
+  .radio-inline {
+	 
+    margin-left: 20px;
+  }
+
+.checkbox-label {
+  padding-top: 10px;
+}
+
+.checkbox-label label {
+  padding-right: 10px;
+}
+
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+  border-radius: .25rem;
+}
+
+.mobile-margin { margin-top: 100px; }
+
+

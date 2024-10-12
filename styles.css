@@ -1,0 +1,9 @@
+/* Styling the title with id */
+#title {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Styling the description with class */
+.description {
+    color: red;
+}

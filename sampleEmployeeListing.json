@@ -1,0 +1,362 @@
+[
+    {
+        "EmployeeID": 4,
+        "Name": "ALITA ONG",
+        "userName": "alita.ong5270",
+        "email": "ONGYH4038@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "SYSTEM ADMIN",
+        "position": "ADMIN",
+        "phone": "+60102440828",
+        "nric": "960828135270",
+        "gender": "Female",
+        "dob": "28/08/1996 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 4,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 4,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 31,
+        "Name": "CARMEN LEE",
+        "userName": "carmen.lee0724",
+        "email": "CARMENLEE_0507@HOTMAIL.COM",
+        "passportNumber": "-1",
+        "role": "ADMIN",
+        "position": "ADMIN",
+        "phone": "+60109600195",
+        "nric": "000507060724",
+        "gender": "Female",
+        "dob": "07/05/2000 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 31,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 31,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 10049,
+        "Name": "CELESTIAL BROW",
+        "userName": "celestial.brow0101",
+        "email": "SDFSD@SD90FUJSDMKFL.COM",
+        "passportNumber": "",
+        "role": "SUBCON",
+        "position": "SUBCON",
+        "phone": "+60162068004",
+        "nric": "800101010101",
+        "gender": "Female",
+        "dob": "01/01/1980 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 10049,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 10049,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 10047,
+        "Name": "JANICE KOK",
+        "userName": "janice.kok0650",
+        "email": "KXUAN0320@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "ARTISAN",
+        "position": "ARTISAN",
+        "phone": "+60182635350",
+        "nric": "020320130650",
+        "gender": "Female",
+        "dob": "20/03/2002 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 10047,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 10047,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 14,
+        "Name": "JEFF LIEW",
+        "userName": "jeff.liew5597",
+        "email": "ZYLIEW93@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "SYSTEM ADMIN",
+        "position": "ADMIN",
+        "phone": "+60126906608",
+        "nric": "931114145597",
+        "gender": "Male",
+        "dob": "14/11/1993 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 14,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 14,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 24,
+        "Name": "JESSI CHEAH",
+        "userName": "jessi.cheah1234",
+        "email": "AMELIACHEAH62@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "ARTISAN",
+        "position": "ARTISAN",
+        "phone": "+601116871388",
+        "nric": "951214121234",
+        "gender": "Female",
+        "dob": "14/12/1995 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 24,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 24,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 10046,
+        "Name": "JIA MING SEOW",
+        "userName": "jia.seow0826",
+        "email": "JIAMINGSEOW0721@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "ADMIN",
+        "position": "ADMIN",
+        "phone": "+60137660799",
+        "nric": "060721140826",
+        "gender": "Female",
+        "dob": "21/07/2006 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 10046,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 10046,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 10038,
+        "Name": "JING YING LIM",
+        "userName": "jing.lim1114",
+        "email": "123@123.COM",
+        "passportNumber": "-1",
+        "role": "ARTISAN",
+        "position": "ARTISAN",
+        "phone": "+60126503213",
+        "nric": "021111111114",
+        "gender": "Female",
+        "dob": "11/11/2002 08:00:00",
+        "WebAccess": "Inactive",
+        "kumoSanAccess": "Inactive",
+        "bookable": "Inactive",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 10038,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 10038,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 23,
+        "Name": "JOANNE FONG",
+        "userName": "joanne.fong1212",
+        "email": "JOANNE@JOANNE.COM",
+        "passportNumber": "-1",
+        "role": "ARTISAN",
+        "position": "ARTISAN",
+        "phone": "+60162881268",
+        "nric": "981212121212",
+        "gender": "Female",
+        "dob": "12/12/1998 08:00:00",
+        "WebAccess": "Inactive",
+        "kumoSanAccess": "Inactive",
+        "bookable": "Inactive",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 23,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 23,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    },
+    {
+        "EmployeeID": 10043,
+        "Name": "KAI SUEN CHEN",
+        "userName": "kai.chen0882",
+        "email": "KAISUENC@GMAIL.COM",
+        "passportNumber": "-1",
+        "role": "ARTISAN",
+        "position": "ARTISAN",
+        "phone": "+60143323318",
+        "nric": "030512080882",
+        "gender": "Female",
+        "dob": "12/05/2003 08:00:00",
+        "WebAccess": "Active",
+        "kumoSanAccess": "Active",
+        "bookable": "Active",
+        "onlineBookable": "Active",
+        "MainOutlet": {
+            "userId": 10043,
+            "siteId": 1,
+            "siteName": "YH BEAUTE"
+        },
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "",
+        "country": "MALAYSIA",
+        "postcode": "",
+        "state": "",
+        "SecondaryOutlet": [
+            {
+                "userId": 10043,
+                "siteId": 1,
+                "siteName": "YH BEAUTE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Currency Converter</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="style5.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+
+	<h1 class="text-center mt-5">全民party - 現時匯率計算器</h1>
+
+	<ul class="nav nav-tabs mt-4">
+		<li class="nav-item"><a class="nav-link active" data-bs-toggle="tab" href="#twd-tab-content" id="twd-tab">台幣換算</a></li>
+
+	</ul>
+
+	<div class="tab-content">
+
+		<!-- TWD Conversion Tab Content -->
+		<div aria-labelledby="twd-tab" class="tab-pane fade show active" id="twd-tab-content" role="tabpanel">
+			<div class="row mt-4">
+				<div class="col-md-6 offset-md-3"><label class="form-label" for="twd">填寫你的台幣數量:</label> 
+					<input class="form-control" id="twd" placeholder="0" type="number" />
+					<div class="mt-4" id="results">
+						<p>馬幣: <span id="myr">0.00</span></p>
+
+						<p>人民幣: <span id="rmb">0.00</span></p>
+
+						<p>新幣: <span id="sgd">0.00</span></p>
+
+						<p>港幣: <span id="hkd">0.00</span></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	
+		<div class="mobile-margin visible-xs"></div>
+
+
+
+	</div>
+</div>
+
+<div class="mt-5" id="copyright">
+	<p>匯率來源: <a href="https://exchangeratesapi.io/">exchangeratesapi.io</a> | Copyright 阿獎 ChatGPT &copy; 2023. All rights reserved.</p>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script><script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script><script src="myscript1.js"></script></body>
+</html>
